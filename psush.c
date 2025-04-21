@@ -8,6 +8,8 @@ display current directory via "cwd"
 change directory via "cd"
 echo text via "echo"
 exiting this shell via "bye" (using "exit" will exit the outer shell this shell runs in)
+piping of an arbitrary number of commands via "|"
+redirection of input via "<" and output via ">"
 */
 
 #include <stdio.h>

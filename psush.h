@@ -1,5 +1,5 @@
 //Daniel Schuster
-//starter .h file code by Jesse Chaney
+//starter .h file code by Professor Jesse Chaney, Portland State University
 
 #ifndef _CMD_PARSE_H
 # define _CMD_PARSE_H
