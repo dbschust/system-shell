@@ -1,5 +1,4 @@
 #Daniel Schuster
-#CS-333 Lab4
 
 
 CC = gcc

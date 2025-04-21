@@ -1,6 +1,14 @@
-// Daniel Schuster
-// CS-333, lab 4 psush
-// (using starter code by Jesse Chaney)
+// Author: Daniel Schuster
+// Code template provided by Professor Jesse Chaney at Portland State University
+/*
+This program is an interactive shell that supports operation of linux built-in
+commands (ls, cat, etc.), and my implementation of the following:
+command history via "history" 
+display current directory via "cwd"
+change directory via "cd"
+echo text via "echo"
+exiting this shell via "bye" (using "exit" will exit the outer shell this shell runs in)
+*/
 
 #include <stdio.h>
 #include <string.h>

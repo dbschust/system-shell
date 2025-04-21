@@ -1,5 +1,4 @@
 //Daniel Schuster
-//CS 350, Lab 4 psush
 //starter .h file code by Jesse Chaney
 
 #ifndef _CMD_PARSE_H
